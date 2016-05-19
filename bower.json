@@ -1,0 +1,24 @@
+{
+  "name": "design",
+  "authors": [
+    "danyloteteruk@gmail.com"
+  ],
+  "description": "FE test",
+  "main": "index.html",
+  "keywords": [
+    "design",
+    "responsive"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
